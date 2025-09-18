@@ -1,0 +1,4 @@
+yfinance==0.2.27
+requests==2.31.0
+pandas==2.2.2
+python-dateutil==2.8.2
